@@ -1,15 +1,23 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "ambinintsoa",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "ambinintsoa",
+  "description": "A project for the freecodecamp project",
+  "keywords": [
+    "freecodecamp",
+    "project",
+    "words"
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
